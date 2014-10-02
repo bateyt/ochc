@@ -1,11 +1,11 @@
 # Photography and Videography in Historic Cemeteries
 Oregon Commission on Historic Cemeteries  
 
-## Overview
+### Overview
 
-## For Preservationists
+### For Preservationists
 
-## For Photographers
+### For Photographers
 
-## References
+### References
 
