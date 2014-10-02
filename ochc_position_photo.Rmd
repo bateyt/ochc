@@ -1,0 +1,19 @@
+---
+title: "Photography and Videography in Historic Cemeteries"
+author: "Oregon Commission on Historic Cemeteries"
+output:
+  html_document:
+    css: ~/GitHub/ochc/stylesheets/styles.css
+    fig_caption: yes
+    keep_md: yes
+    toc: yes
+---
+
+## Overview
+
+## For Preservationists
+
+## For Photographers
+
+## References
+
