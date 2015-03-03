@@ -22,25 +22,31 @@
 \headcommand {\beamer@framepages {12}{12}}
 \headcommand {\slideentry {2}{1}{4}{13/13}{Questions to ask}{0}}
 \headcommand {\beamer@framepages {13}{13}}
-\headcommand {\beamer@subsectionentry {0}{2}{2}{14}{Prior Research}}\headcommand {\beamer@subsectionpages {10}{13}}
-\headcommand {\slideentry {2}{2}{1}{14/14}{Prior Research}{0}}
+\headcommand {\slideentry {2}{1}{5}{14/14}{Questions to ask}{0}}
 \headcommand {\beamer@framepages {14}{14}}
-\headcommand {\slideentry {2}{2}{2}{15/15}{Prior Research}{0}}
+\headcommand {\slideentry {2}{1}{6}{15/15}{Questions to ask}{0}}
 \headcommand {\beamer@framepages {15}{15}}
-\headcommand {\sectionentry {3}{Resources}{16}{Resources}{0}}
-\headcommand {\beamer@sectionpages {10}{15}}
-\headcommand {\beamer@subsectionpages {14}{15}}
-\headcommand {\slideentry {3}{0}{3}{16/16}{}{0}}
+\headcommand {\beamer@subsectionentry {0}{2}{2}{16}{Prior Research}}\headcommand {\beamer@subsectionpages {10}{15}}
+\headcommand {\slideentry {2}{2}{1}{16/16}{Prior Research}{0}}
 \headcommand {\beamer@framepages {16}{16}}
-\headcommand {\slideentry {3}{0}{4}{17/17}{}{0}}
-\headcommand {\beamer@framepages {17}{17}}
-\headcommand {\sectionentry {4}{Summary}{18}{Summary}{0}}
-\headcommand {\beamer@sectionpages {16}{17}}
-\headcommand {\beamer@subsectionpages {16}{17}}
-\headcommand {\slideentry {4}{0}{5}{18/20}{}{0}}
-\headcommand {\beamer@framepages {18}{20}}
-\headcommand {\beamer@partpages {1}{20}}
-\headcommand {\beamer@subsectionpages {18}{20}}
-\headcommand {\beamer@sectionpages {18}{20}}
-\headcommand {\beamer@documentpages {20}}
-\headcommand {\def \inserttotalframenumber {13}}
+\headcommand {\slideentry {2}{2}{2}{17/19}{Prior Research}{0}}
+\headcommand {\beamer@framepages {17}{19}}
+\headcommand {\slideentry {2}{2}{3}{20/22}{Prior Research}{0}}
+\headcommand {\beamer@framepages {20}{22}}
+\headcommand {\sectionentry {3}{Resources}{23}{Resources}{0}}
+\headcommand {\beamer@sectionpages {10}{22}}
+\headcommand {\beamer@subsectionpages {16}{22}}
+\headcommand {\slideentry {3}{0}{4}{23/23}{}{0}}
+\headcommand {\beamer@framepages {23}{23}}
+\headcommand {\slideentry {3}{0}{5}{24/24}{}{0}}
+\headcommand {\beamer@framepages {24}{24}}
+\headcommand {\sectionentry {4}{Summary}{25}{Summary}{0}}
+\headcommand {\beamer@sectionpages {23}{24}}
+\headcommand {\beamer@subsectionpages {23}{24}}
+\headcommand {\slideentry {4}{0}{6}{25/27}{}{0}}
+\headcommand {\beamer@framepages {25}{27}}
+\headcommand {\beamer@partpages {1}{27}}
+\headcommand {\beamer@subsectionpages {25}{27}}
+\headcommand {\beamer@sectionpages {25}{27}}
+\headcommand {\beamer@documentpages {27}}
+\headcommand {\def \inserttotalframenumber {16}}

@@ -3,5 +3,5 @@
 \beamer@sectionintoc {1}{Introduction}{5}{0}{1}
 \beamer@sectionintoc {2}{Doing Your Homework}{10}{0}{2}
 \beamer@subsectionintoc {2}{1}{Questions to ask}{10}{0}{2}
-\beamer@subsectionintoc {2}{2}{Prior Research}{14}{0}{2}
-\beamer@sectionintoc {3}{Resources}{16}{0}{3}
+\beamer@subsectionintoc {2}{2}{Prior Research}{16}{0}{2}
+\beamer@sectionintoc {3}{Resources}{23}{0}{3}
