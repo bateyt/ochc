@@ -1,0 +1,34 @@
+---
+title: "Remote Sensing Techniques for Cemetery Mapping"
+author: "Oregon Commission on Historic Cemeteries"
+date: "22 April 2015"
+institution: "Oregon Heritage Conference"
+output:
+  beamer_presentation:
+    colortheme: dolphin
+    fig_caption: yes
+    fonttheme: professionalfonts
+    incremental: yes
+    keep_tex: no
+    slide_level: 2
+    theme: Luebeck
+    toc: yes
+---
+
+# Introduction and Session Overview
+
+# Doing Your Homework
+
+## Why am I considering remote sensing?
+
+## Background Research
+
+- Archival research
+- Cemetery records
+
+# Remote Sensing Techniques
+
+## Geophysical Methods
+
+## Imaging Methods
+
